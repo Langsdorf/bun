@@ -11,7 +11,7 @@ You can find the patched version of WebKit used by Bun here: <https://github.com
 - `git submodule update --init --recursive`
 - `make jsc`
 - `zig build`
-
+sadsadsadsadsadasd
 This compiles JavaScriptCore, compiles Bun’s `.cpp` bindings for JavaScriptCore (which are the object files using JavaScriptCore) and outputs a new `bun` binary with your changes.
 
 ## Linked libraries
